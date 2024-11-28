@@ -23,8 +23,6 @@ Rent a vehicle by selecting it.
 Return a rented vehicle.
 Installation
 Python 3.7 or higher is required. No additional libraries needed.
-Example:
-python
 # Start the rental system
 rental_system = RentalSystem()
 rental_system.menu()
